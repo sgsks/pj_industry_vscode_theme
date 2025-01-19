@@ -1,6 +1,6 @@
 {
-  "name": "industry",
-  "displayName": "Industry",
+  "name": "industry-theme",
+  "displayName": "Industry Theme",
   "description": "Industry theme for Visual Studio Code",
   "version": "1.0.1",
   "publisher": "SGS",
