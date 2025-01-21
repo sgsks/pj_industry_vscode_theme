@@ -638,7 +638,7 @@
 	  "editor.foldBackground": "#84834f68",
 	  "editorOverviewRuler.background": "#25252500",
 	  "editorOverviewRuler.border": "#7f7f7f4d",
-	  "editorError.foreground": "#f48771",
+	  //"editorError.foreground": "#f48771",
 	  "editorError.background": "#B73A3400",
 	  "editorError.border": "#ffffff00",
 	  "editorWarning.foreground": "#cca700",
