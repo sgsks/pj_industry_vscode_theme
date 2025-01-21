@@ -2,8 +2,9 @@
   "name": "industry-theme",
   "displayName": "Industry Theme",
   "description": "Industry theme for Visual Studio Code",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "publisher": "SGS",
+  "icon": "images/industry_icon.png",
   "engines": {
     "vscode": "^1.96.0"
   },
