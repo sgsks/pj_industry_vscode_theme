@@ -1,5 +1,8 @@
 node_modules
 theme_json_history_bk
+code_sample
+vsix
 MemoLocal.md
+update_history.md
 vsc-extension-quickstart.md
 *.vsix
