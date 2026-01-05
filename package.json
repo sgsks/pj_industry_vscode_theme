@@ -4,7 +4,7 @@
   "description": "Industry theme for Visual Studio Code",
   "version": "1.1.6",
   "publisher": "SGS",
-  "icon": "images/industry_icon_v116.png",
+  "icon": "images/industry_icon_v115.png",
   "engines": {
     "vscode": "^1.96.0"
   },
