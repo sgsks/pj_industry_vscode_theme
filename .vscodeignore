@@ -2,4 +2,6 @@
 .vscode-test/**
 .gitignore
 .env
+.env.*
+*.env
 vsc-extension-quickstart.md
