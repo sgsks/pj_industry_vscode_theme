@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "industry" extension will be documented in this file.
+## 1.2.2
+Fix background colors (activityBar , statusBar , titleBar) in "Industry Darker" theme
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.2.1
+Fix tab inactive background color in "Industry Darker" theme
 
-## [Unreleased]
-
-- Initial release
+## 1.2.0
+Fix syntax colors
