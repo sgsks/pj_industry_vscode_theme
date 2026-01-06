@@ -2,7 +2,7 @@
   "name": "industry-theme",
   "displayName": "Industry Theme",
   "description": "Industry theme for Visual Studio Code",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "SGS",
   "icon": "images/industry_icon_v115.png",
   "engines": {
@@ -24,13 +24,11 @@
   "contributes": {
     "themes": [
       {
-        "id": "industry-color-theme",
         "label": "Industry",
         "uiTheme": "vs-dark",
         "path": "./themes/industry-color-theme.json"
       },
             {
-        "id": "industry-color-darker-theme",
         "label": "Industry Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/industry-color-darker-theme.json"
