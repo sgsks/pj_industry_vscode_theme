@@ -107,7 +107,7 @@
 	  "editorWarning.foreground": "#cca700",
 	  "editorWarning.background": "#A9904000",
 	  "editorWarning.border": "#ffffff00",
-	  "editorInfo.foreground": "#75beff",
+	  "editorInfo.foreground": "#888630",
 	  "editorInfo.background": "#4490BF00",
 	  "editorInfo.border": "#4490BF00",
 	  "editorGutter.background": "#171716",
