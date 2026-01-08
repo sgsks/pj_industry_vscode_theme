@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 	  "foreground": "#cccccc",
-	  "focusBorder": "#808080",
+	  "focusBorder": "#191919",
 	  "selection.background": "#606646",
 	  "scrollbar.shadow": "#000000",
 	  "activityBar.foreground": "#d5d338",

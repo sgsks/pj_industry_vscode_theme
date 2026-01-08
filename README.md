@@ -6,8 +6,8 @@ A dark theme with construction-inspired yellow accents for Visual Studio Code. B
 
 ## Version History
 
-### Version 1.2.2
-Fix background colors (activityBar , statusBar , titleBar) in "Industry Darker" theme
+### Version 1.2.4
+Fix list focus outline color
 
 ### Version 1.2.0
 Fix syntax colors

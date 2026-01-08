@@ -4,7 +4,7 @@
 
 	"colors": {
 	  "foreground": "#cccccc",
-	  "focusBorder": "#808080",
+	  "focusBorder": "#1f1f1f",
 	  "selection.background": "#606646",
 	  "scrollbar.shadow": "#000000",
 	  "activityBar.foreground": "#d5d338",
@@ -25,7 +25,6 @@
 	  "list.hoverForeground": "#cccccc",
 	  "list.activeSelectionBackground": "#4e5632",
 	  "list.activeSelectionForeground": "#ffffff",
-	  "tree.indentGuidesStroke": "#585858",
 	  "list.dropBackground": "#454b4fa7",
 	  "list.highlightForeground": "#dedb45",
 	  "list.focusBackground": "#4b4a0f",
@@ -34,6 +33,7 @@
 	  "listFilterWidget.background": "#653723",
 	  "listFilterWidget.outline": "#00000000",
 	  "listFilterWidget.noMatchesOutline": "#be1100",
+	  "tree.indentGuidesStroke": "#585858",
 	  "statusBar.foreground": "#a5a5a5",
 	  "statusBar.background": "#121214",
 	  "statusBarItem.hoverBackground": "#ffffff1f",

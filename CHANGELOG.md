@@ -1,8 +1,11 @@
 # Change Log
 
+## 1.2.4
+Fix list focus outline color
+
 ## 1.2.3
-### Industry Darker
-#### Colors fixed
+### Colors fixed
+#### Industry Darker
 - activityBar.background
 - statusBar.background
 - titleBar.background
